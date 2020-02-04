@@ -23,3 +23,28 @@ else
 {
     print("I'm not sure about coding")
 }
+var CookieVariableOne = 1
+var ChocolateVariableTwo = 2
+
+if (CookieVariableOne < ChocolateVariableTwo)
+{
+    print("Food")
+}
+
+else
+{
+    print("Cake")
+}
+var TacoStringOne = "french"
+var BurgerStringTwo = "fries"
+ var StringThree = TacoStringOne + BurgerStringTwo
+
+if TacoStringOne == "french"
+{
+   
+    
+    print (StringThree)
+}
+
+
+
