@@ -37,14 +37,20 @@ else
 }
 var TacoStringOne = "french"
 var BurgerStringTwo = "fries"
- var StringThree = TacoStringOne + BurgerStringTwo
+var StringThree = TacoStringOne + BurgerStringTwo
 
 if TacoStringOne == "french"
 {
    
-    
     print (StringThree)
 }
+
+var mayo:Bool = true
+var ink:Bool = false
+var three:Bool = ink
+
+    print ("false")
+
 
 
 
